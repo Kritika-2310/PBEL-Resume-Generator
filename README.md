@@ -29,3 +29,7 @@ This application is an AI-powered tool that generates professional resumes and c
  <img width="1385" height="902" alt="RESUME GENERATOR" src="https://github.com/user-attachments/assets/e648df8d-81b1-4990-896e-8d9939e6cbc6" />
  Targeted cover letter addressing the AI Engineer position
  <img width="1172" height="898" alt="COVER LETTER GENERATOR" src="https://github.com/user-attachments/assets/f09d0440-62ef-4e1e-be1e-496b24c8e901" />
+
+
+ <img width="1918" height="892" alt="PROJECT FINAL" src="https://github.com/user-attachments/assets/31ffad89-2129-4d3e-84ca-3e6e0f4d1116" />
+
