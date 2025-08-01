@@ -8,14 +8,14 @@ This application is an AI-powered tool that generates professional resumes and c
  Template-Based Generation: Creates documents that match your professional templates
  AI-Powered Personalization: Tailors content to individual users' information
  Job-Specific Cover Letters: Generates targeted cover letters based on job descriptions
- Local LLM Processing: Uses Gemini model for privacy-focused processing
+ Local LLM Processing: Uses Mistral model for privacy-focused processing
  Responsive UI: Clean interface built with Gradio and designed with Firebase
 
 **Technology Stack:**
 
  Backend: Python
  AI Framework: LangChain
- LLM: Gemini
+ LLM: Mistral
  Embeddings: BAAI/bge-small-en-v1.5
  Vector Database: FAISS
  UI Framework: Gradio
